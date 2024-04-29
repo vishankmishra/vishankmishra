@@ -1,0 +1,5 @@
++ ADD
+* MUL
+- SUB
+/ DIV
+= MOV
